@@ -8,11 +8,11 @@ Backend operations for an e-commerce site, keep track e-commerce database and up
 You will need to use the following command: "npm install express sequelize mysql2"
 
 ## Built with 
--Sequeilize
--Express.js
--Node.js
--mysql
 
+- sequelize
+- express.js
+- node.js
+- mysql
 ## Screenshot
 ![alt text](assets/images/ecoms.PNG)
 
