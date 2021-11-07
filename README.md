@@ -2,7 +2,7 @@
 # E-Commerce Back end
 
 ## Description 
-Backend operations for an e-commerce site, keep track e-commerce database and update as needed. This is done through the power of various resources with a focus on sequelize 
+Backend operations for an e-commerce site, keep track of an e-commerce database and update as needed. This is done through the power of various resources with a focus on sequelize 
 
 ## Installation
 You will need to use the following command: "npm install express sequelize mysql2"
